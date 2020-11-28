@@ -42,7 +42,7 @@
 
 <script>
 
-    const localhost = 'http://localhost:4941/api/v1';
+    const localhost = 'https://ariel-chch-vue-server.herokuapp.com/api/v1/reset';
 
     export default {
         name: "Home",
